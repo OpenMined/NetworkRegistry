@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "networks": [
+    {
+      "name": "omnet",
+      "host_or_ip": "13.64.187.229",
+      "admin_email": "support@openmined.org",
+      "website": "https://www.openmined.org/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "omnet"
+    }
+  ]
+}
