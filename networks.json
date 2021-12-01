@@ -22,6 +22,17 @@
       "website": "https://www.openmined.org/",
       "slack": "https://slack.openmined.org/",
       "slack_channel": "petlab"
+    },
+    {
+      "name": "Centre for the Governance of AI (GovAI)",
+      "host_or_ip": "40.83.130.123",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.openmined.org/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "govai"
     }
   ]
 }
