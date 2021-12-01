@@ -30,7 +30,7 @@
       "protocol": "http",
       "port": 80,
       "admin_email": "support@openmined.org",
-      "website": "https://www.openmined.org/",
+      "website": "https://www.governance.ai/",
       "slack": "https://slack.openmined.org/",
       "slack_channel": "govai"
     }
