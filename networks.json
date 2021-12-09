@@ -12,19 +12,8 @@
       "slack": "https://slack.openmined.org/",
       "slack_channel": "opengrid"
     },
-    {
-      "name": "United Nations PET Lab (Mock)",
-      "host_or_ip": "13.64.14.221",
-      "vpn_host_or_ip": "100.64.0.1",
-      "protocol": "http",
-      "port": 80,
-      "admin_email": "support@openmined.org",
-      "website": "https://www.openmined.org/",
-      "slack": "https://slack.openmined.org/",
-      "slack_channel": "petlab"
-    },
         {
-      "name": "United Nations PET Lab (Mock 2)",
+      "name": "United Nations PET Lab (Mock)",
       "host_or_ip": "52.234.27.254",
       "vpn_host_or_ip": "100.64.0.1",
       "protocol": "http",
