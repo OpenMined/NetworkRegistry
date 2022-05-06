@@ -12,7 +12,7 @@
       "slack": "https://slack.openmined.org/",
       "slack_channel": "opengrid"
     },
-        {
+    {
       "name": "United Nations PET Lab (Mock)",
       "host_or_ip": "52.225.32.177",
       "vpn_host_or_ip": "100.64.0.1",
@@ -33,6 +33,17 @@
       "website": "https://www.governance.ai/",
       "slack": "https://slack.openmined.org/",
       "slack_channel": "govai"
+    },
+    {
+      "name": "Ad Astra 🚀🌌",
+      "host_or_ip": "20.237.138.211",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.governance.ai/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "adastra"
     }
   ]
 }
