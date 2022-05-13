@@ -14,6 +14,39 @@
     },
     {
       "name": "Ad Astra Demo 1",
+      "host_or_ip": "20.237.12.128",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.governance.ai/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "adastra"
+    },
+    {
+      "name": "Ad Astra Demo 2",
+      "host_or_ip": "20.127.176.251",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.governance.ai/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "adastra"
+    },
+    {
+      "name": "Ad Astra Demo 3",
+      "host_or_ip": "20.232.56.167",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.governance.ai/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "adastra"
+    },
+    {
+      "name": "Ad Astra Demo 4",
       "host_or_ip": "20.237.138.211",
       "vpn_host_or_ip": "100.64.0.1",
       "protocol": "http",
