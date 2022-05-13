@@ -13,30 +13,30 @@
       "slack_channel": "opengrid"
     },
     {
-      "name": "United Nations PET Lab (Mock)",
-      "host_or_ip": "52.225.32.177",
-      "vpn_host_or_ip": "100.64.0.1",
-      "protocol": "http",
-      "port": 80,
-      "admin_email": "support@openmined.org",
-      "website": "https://www.openmined.org/",
-      "slack": "https://slack.openmined.org/",
-      "slack_channel": "petlab"
-    },
-    {
-      "name": "Centre for the Governance of AI (GovAI)",
-      "host_or_ip": "40.83.130.123",
+      "name": "Ad Astra Demo 1",
+      "host_or_ip": "20.120.53.146",
       "vpn_host_or_ip": "100.64.0.1",
       "protocol": "http",
       "port": 80,
       "admin_email": "support@openmined.org",
       "website": "https://www.governance.ai/",
       "slack": "https://slack.openmined.org/",
-      "slack_channel": "govai"
+      "slack_channel": "adastra"
     },
     {
-      "name": "Ad Astra 🚀🌌",
-      "host_or_ip": "20.237.138.211",
+      "name": "Ad Astra Demo 2",
+      "host_or_ip": "20.120.53.148",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.governance.ai/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "adastra"
+    },
+    {
+      "name": "Ad Astra Demo 3",
+      "host_or_ip": "20.120.52.212",
       "vpn_host_or_ip": "100.64.0.1",
       "protocol": "http",
       "port": 80,
