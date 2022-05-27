@@ -10,10 +10,10 @@
       "admin_email": "support@openmined.org",
       "website": "https://www.openmined.org/",
       "slack": "https://slack.openmined.org/",
-      "slack_channel": "opengrid"
+      "slack_channel": "#support"
     },
     {
-      "name": "Ad Astra Demo 1",
+      "name": "GovAI Network A",
       "host_or_ip": "20.237.12.128",
       "vpn_host_or_ip": "100.64.0.1",
       "protocol": "http",
@@ -21,10 +21,10 @@
       "admin_email": "support@openmined.org",
       "website": "https://www.governance.ai/",
       "slack": "https://slack.openmined.org/",
-      "slack_channel": "adastra"
+      "slack_channel": "#support"
     },
     {
-      "name": "Ad Astra Demo 2",
+      "name": "GovAI Network B",
       "host_or_ip": "20.127.176.251",
       "vpn_host_or_ip": "100.64.0.1",
       "protocol": "http",
@@ -32,10 +32,10 @@
       "admin_email": "support@openmined.org",
       "website": "https://www.governance.ai/",
       "slack": "https://slack.openmined.org/",
-      "slack_channel": "adastra"
+      "slack_channel": "#support"
     },
     {
-      "name": "Ad Astra Demo 3",
+      "name": "GovAI Network C",
       "host_or_ip": "20.232.56.167",
       "vpn_host_or_ip": "100.64.0.1",
       "protocol": "http",
@@ -43,7 +43,7 @@
       "admin_email": "support@openmined.org",
       "website": "https://www.governance.ai/",
       "slack": "https://slack.openmined.org/",
-      "slack_channel": "adastra"
+      "slack_channel": "#support"
     }
   ]
 }
