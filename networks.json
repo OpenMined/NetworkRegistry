@@ -33,6 +33,94 @@
       "website": "https://www.governance.ai/",
       "slack": "https://slack.openmined.org/",
       "slack_channel": "#support"
+    },
+    {
+      "name": "GovAI Network 3",
+      "host_or_ip": "20.84.13.24",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.governance.ai/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "#support"
+    },
+    {
+      "name": "GovAI Network 4",
+      "host_or_ip": "20.84.14.84",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.governance.ai/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "#support"
+    },
+    {
+      "name": "GovAI Network 5",
+      "host_or_ip": "20.84.12.64",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.governance.ai/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "#support"
+    },
+    {
+      "name": "GovAI Network 6",
+      "host_or_ip": "20.84.14.94",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.governance.ai/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "#support"
+    },
+    {
+      "name": "GovAI Network 7",
+      "host_or_ip": "20.84.12.138",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.governance.ai/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "#support"
+    },
+    {
+      "name": "GovAI Network 8",
+      "host_or_ip": "20.84.14.128",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.governance.ai/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "#support"
+    },
+    {
+      "name": "GovAI Network 9",
+      "host_or_ip": "20.84.12.33",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.governance.ai/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "#support"
+    },
+    {
+      "name": "GovAI Network 10",
+      "host_or_ip": "20.84.8.208",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.governance.ai/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "#support"
     }
   ]
 }
