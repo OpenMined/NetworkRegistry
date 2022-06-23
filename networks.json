@@ -176,6 +176,17 @@
       "website": "https://www.governance.ai/",
       "slack": "https://slack.openmined.org/",
       "slack_channel": "#support"
+    },
+    {
+      "name": "GovAI Network 16",
+      "host_or_ip": "20.241.208.42",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.governance.ai/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "#support"
     }
   ]
 }
