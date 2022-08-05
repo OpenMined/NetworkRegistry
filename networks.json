@@ -1,7 +1,17 @@
 {
   "version": "1.0.0",
   "networks": [
-  
+  {
+      "name": "opengrid",
+      "host_or_ip": "20.23.233.200",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.openmined.org/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "#support"
+    }
 
   ]
 }
