@@ -22,6 +22,17 @@
       "website": "https://www.openmined.org/",
       "slack": "https://slack.openmined.org/",
       "slack_channel": "#support"
+    },
+    {
+      "name": "Twitter Network",
+      "host_or_ip": "23.99.94.103",
+      "vpn_host_or_ip": "100.64.0.1",
+      "protocol": "http",
+      "port": 80,
+      "admin_email": "support@openmined.org",
+      "website": "https://www.openmined.org/",
+      "slack": "https://slack.openmined.org/",
+      "slack_channel": "#support"
     }
   ]
 }
