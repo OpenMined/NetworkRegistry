@@ -13,17 +13,6 @@
             "slack_channel": "#support"
         },
         {
-            "name": "PySyft Test Network 070 beta42",
-            "host_or_ip": "20.245.137.204",
-            "vpn_host_or_ip": "100.64.0.1",
-            "protocol": "http",
-            "port": 80,
-            "admin_email": "support@openmined.org",
-            "website": "https://www.openmined.org/",
-            "slack": "https://slack.openmined.org/",
-            "slack_channel": "#support"
-        },
-        {
             "name": "UN PET Lab Network",
             "host_or_ip": "20.245.107.41",
             "vpn_host_or_ip": "100.64.0.1",
