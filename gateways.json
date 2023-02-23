@@ -1,0 +1,16 @@
+{
+  "2.0.0": {
+    "gateways": [
+      {
+        "name": "opengrid 0.8.0 beta",
+        "host_or_ip": "20.228.66.171",
+        "protocol": "http",
+        "port": 80,
+        "admin_email": "support@openmined.org",
+        "website": "https://www.openmined.org/",
+        "slack": "https://slack.openmined.org/",
+        "slack_channel": "#support"
+      }
+    ]
+  }
+}
