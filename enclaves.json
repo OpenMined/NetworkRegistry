@@ -1,0 +1,16 @@
+{
+  "2.0.0": {
+    "enclaves": [
+      {
+        "name": "OpenEnclave 1",
+        "host_or_ip": "localhost",
+        "protocol": "http",
+        "port": 8081,
+        "admin_email": "support@openmined.org",
+        "website": "https://www.openmined.org/",
+        "slack": "https://slack.openmined.org/",
+        "slack_channel": "#support"
+      }
+    ]
+  }
+}
