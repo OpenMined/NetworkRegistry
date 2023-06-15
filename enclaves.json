@@ -3,9 +3,49 @@
     "enclaves": [
       {
         "name": "OpenEnclave 1",
-        "host_or_ip": "localhost",
+        "host_or_ip": "open-enclave-1.eastus.azurecontainer.io",
         "protocol": "http",
-        "port": 8081,
+        "port": 80,
+        "admin_email": "support@openmined.org",
+        "website": "https://www.openmined.org/",
+        "slack": "https://slack.openmined.org/",
+        "slack_channel": "#support"
+      },
+      {
+        "name": "OpenEnclave 2",
+        "host_or_ip": "open-enclave-2.eastus.azurecontainer.io",
+        "protocol": "http",
+        "port": 80,
+        "admin_email": "support@openmined.org",
+        "website": "https://www.openmined.org/",
+        "slack": "https://slack.openmined.org/",
+        "slack_channel": "#support"
+      },
+      {
+        "name": "OpenEnclave 3",
+        "host_or_ip": "open-enclave-3.eastus.azurecontainer.io",
+        "protocol": "http",
+        "port": 80,
+        "admin_email": "support@openmined.org",
+        "website": "https://www.openmined.org/",
+        "slack": "https://slack.openmined.org/",
+        "slack_channel": "#support"
+      },
+      {
+        "name": "OpenEnclave 4",
+        "host_or_ip": "open-enclave-4.eastus.azurecontainer.io",
+        "protocol": "http",
+        "port": 80,
+        "admin_email": "support@openmined.org",
+        "website": "https://www.openmined.org/",
+        "slack": "https://slack.openmined.org/",
+        "slack_channel": "#support"
+      },
+      {
+        "name": "OpenEnclave 5",
+        "host_or_ip": "open-enclave-5.eastus.azurecontainer.io",
+        "protocol": "http",
+        "port": 80,
         "admin_email": "support@openmined.org",
         "website": "https://www.openmined.org/",
         "slack": "https://slack.openmined.org/",
