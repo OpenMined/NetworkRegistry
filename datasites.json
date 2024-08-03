@@ -1,5 +1,5 @@
 {
-  "2.0.0": {
+  
     "datasites": [
       {
         "name": "OpenMined Demo",
@@ -12,5 +12,5 @@
         "slack_channel": "#support"
       }
     ]
-  }
+  
 }
