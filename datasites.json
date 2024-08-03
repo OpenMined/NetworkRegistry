@@ -1,0 +1,16 @@
+{
+  "2.0.0": {
+    "datasites": [
+      {
+        "name": "OpenMined Demo",
+        "host_or_ip": "20.51.219.43",
+        "protocol": "http",
+        "port": 80,
+        "admin_email": "support@openmined.org",
+        "website": "https://www.openmined.org/",
+        "slack": "https://slack.openmined.org/",
+        "slack_channel": "#support"
+      }
+    ]
+  }
+}
