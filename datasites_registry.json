@@ -11,6 +11,18 @@
         "slack": "https://slack.openmined.org/",
         "slack_channel": "#support"
       }
+      ,
+      {
+        "name": "Oxford CS Dept — A. Trask",
+        "host_or_ip": "20.46.246.219",
+        "protocol": "http",
+        "port": 8080,
+        "admin_email": "liamtrask@gmail.com",
+        "website": "https://www.cs.ox.ac.uk/people/andrew.trask/",
+        "slack": "https://slack.openmined.org/",
+        "slack_channel": "@trask",
+        "syft_version": "0.9.1-beta.1"
+      }
     ]
   
 }
