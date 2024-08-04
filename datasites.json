@@ -2,6 +2,16 @@
   
     "datasites": [
       {
+        "name": "Oxford CS Dept - Trask",
+        "host_or_ip": "20.46.246.219",
+        "protocol": "http",
+        "port": 8080,
+        "admin_email": "liamtrask@gmail.com",
+        "website": "https://www.cs.ox.ac.uk/people/andrew.trask/",
+        "slack": "https://slack.openmined.org/",
+        "slack_channel": "@trask"
+      },
+      {
         "name": "OpenMined Demo",
         "host_or_ip": "20.51.219.43",
         "protocol": "http",
@@ -10,15 +20,15 @@
         "website": "https://www.openmined.org/",
         "slack": "https://slack.openmined.org/",
         "slack_channel": "#support"
-      }
-      ,
+      },
+      
       {
-        "name": "Oxford CS Dept - Trask",
-        "host_or_ip": "20.46.246.219",
+        "name": "Trask Personal Datasite",
+        "host_or_ip": "20.106.62.246",
         "protocol": "http",
         "port": 8080,
-        "admin_email": "liamtrask@gmail.com",
-        "website": "https://www.cs.ox.ac.uk/people/andrew.trask/",
+        "admin_email": "andrew@openmined.org",
+        "website": "twitter.com/iamtrask",
         "slack": "https://slack.openmined.org/",
         "slack_channel": "@trask"
       },
