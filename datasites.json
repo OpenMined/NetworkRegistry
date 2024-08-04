@@ -20,8 +20,7 @@
         "admin_email": "liamtrask@gmail.com",
         "website": "https://www.cs.ox.ac.uk/people/andrew.trask/",
         "slack": "https://slack.openmined.org/",
-        "slack_channel": "@trask",
-        "syft_version": "0.9.1-beta.1"
+        "slack_channel": "@trask"
       }
     ]
   
