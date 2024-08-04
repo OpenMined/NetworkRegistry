@@ -13,7 +13,7 @@
       }
       ,
       {
-        "name": "Oxford CS Dept - A. Trask",
+        "name": "Oxford CS Dept - Trask",
         "host_or_ip": "20.46.246.219",
         "protocol": "http",
         "port": 8080,
