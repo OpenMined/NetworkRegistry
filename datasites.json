@@ -31,6 +31,16 @@
         "website": "https://www.belmont.edu/science-math/faculty-admin/math-cs-ds-faculty.html",
         "slack": "https://slack.openmined.org/",
         "slack_channel": "#belmont"
+      },
+       {
+        "name": "William's First Datasite",
+        "host_or_ip": "20.46.246.219",
+        "protocol": "http",
+        "port": 8082,
+        "admin_email": "n/a",
+        "website": "n/a",
+        "slack": "https://slack.openmined.org/",
+        "slack_channel": "#williams-datasite"
       }
     ]
   
